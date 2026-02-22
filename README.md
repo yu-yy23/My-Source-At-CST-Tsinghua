@@ -36,3 +36,13 @@ My source codes, homework, projects of some compulsory courses and limited elect
 |计算机网络原理|李宗鹏|[实验](https://github.com/yu-yy23/2025Spring-Principles-of-Computer-Network)|
 |计算机图形学基础|胡事民|[PA、大作业](https://github.com/yu-yy23/2025Spring-Basics-of-Computer-Graphics)|
 |网络空间安全导论|徐恪 刘卓涛|[实验](https://github.com/yu-yy23/2025Spring-Introduction-of-Cyberspace-Security)|
+
+## 大三上 2025秋
+
+|课程|授课教师|资源|
+|:---:|:---:|:---:|
+|计算机组成原理|陆游游|[小实验](https://github.com/yu-yy23/2025Fall-Computer-Organization)|
+|计算机网络原理|吴建平|[软件实验](https://github.com/yu-yy23/2025Fall-Computer-Network)|
+|信号处理原理|刘华平|[实验](https://github.com/yu-yy23/2025Fall-Principles-of-Signal-Processing)|
+|编译原理|王龙|[实验](https://github.com/yu-yy23/2025Fall-Principles-and-Practice-of-Compiler-Construction)|
+|计算机网络安全技术|尹霞|[实验](https://github.com/yu-yy23/2025Fall-Computer-Network-Security-Technology)|
